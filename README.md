@@ -25,6 +25,3 @@ It includes:
 🎯 Purpose
 
 This project was developed as a **college mini-project** to practice **UI/UX design skills** and gain experience in creating professional-looking web interfaces.
-
-🔗 Live Prototype
-View interactive prototype here: https://www.figma.com/proto/a7UR6SvhHgwuCEPsfSw4Yk/linked-in?node-id=0-1&t=vU8JJ6N3otZQCzQE-1
